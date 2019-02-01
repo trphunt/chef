@@ -4,7 +4,7 @@ maintainer_email 'trphunt@tylerhunt.solutions'
 license 'all_rights'
 description 'Installs/Configures workstation'
 long_description 'Installs/Configures workstation'
-version '0.3.0'
+version '0.4.0'
 
 # If you upload to Supermarket you should set this so your cookbook
 # gets a `View Issues` link
