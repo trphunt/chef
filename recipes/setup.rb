@@ -19,6 +19,9 @@ node['memory']['total']
 
 template '/etc/motd' do
   source 'motd.erb'
+  variables(
+    :name => 'trphunt'
+  )
   action :create
 end
 
